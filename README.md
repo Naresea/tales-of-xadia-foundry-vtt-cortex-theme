@@ -8,7 +8,7 @@ A fan made module for Foundry VTT and the Cortex Prime game system that styles t
 
 Copy the manifest link into Foundry's module installation dialog:
 
-TODO
+[https://raw.githubusercontent.com/Naresea/tales-of-xadia-foundry-vtt-cortex-theme/main/releases/module.json](https://raw.githubusercontent.com/Naresea/tales-of-xadia-foundry-vtt-cortex-theme/main/releases/module.json)
 
 ## Background Art:
 
